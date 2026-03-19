@@ -16,8 +16,8 @@
 
 ## 🙋 About Me
 
-- 🎓 3rd-year **Data Science Technology** student at **Universitas Airlangga**, Surabaya (GPA: 3.56/4.00)
-- 🏛️ **Vice President** of Innovative Research on Intelligent System (IRIS)
+- 🎓 3rd-year **Data Science Technology** student at **Universitas Airlangga**, Surabaya (GPA: 3.63/4.00)
+- 🏛️ **President** of Innovative Research on Intelligent System (IRIS)
 - 🏆 Competitive in data science & analytics — national competition achiever
 - 💡 Interested in **Machine Learning**, **NLP**, **Backend Development**, and **AI Applications**
 - 🌍 Presented research to students from **Universiti Malaya** & **Nanyang Polytechnic**
